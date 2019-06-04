@@ -3,7 +3,7 @@ module.exports = {
 
   tasks: {
     browsersync: true,
-    eslint:      true,
+    eslint:      false,
     imagemin:    true,
     sass:        true,
     watch:       true,
