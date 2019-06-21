@@ -13,17 +13,22 @@ layout: default
       data-aos-easing="ease-in-out" src="assets/images/check.png" class="check">Fast. <br>
       <img data-aos="animate" data-aos="fade-right"
         data-aos-delay="500"
-        data-aos-easing="ease-in-out" src="assets/images/check.png" class="check">Cheap.<br> 
+        data-aos-easing="ease-in-out" src="assets/images/check.png" class="check">Good.<br> 
         <img data-aos="animate" data-aos="fade-right"
         data-aos-delay="800"
-        data-aos-easing="ease-in-out" src="assets/images/check.png" class="check">Good. 
+        data-aos-easing="ease-in-out" src="assets/images/check.png" class="check">Cheap. 
       </h1>
+    <div class="col m12 s6">
+      <div class="padleft">
+        <h1 class="" data-aos="fade-in"
+        data-aos-delay="1500"
+        data-aos-easing="ease-in-out">Pick all 3.</h1> 
+        
+         <a class=" hide-on-small-only investorlink" href="mailto:contact@subscale.com">Investor Inquiries</a>
+      </div>
     
-      <h1 class="col m12 s6" data-aos="fade-in"
-      data-aos-delay="1500"
-      data-aos-easing="ease-in-out">Pick all 3.</h1> 
-     
-       <a class=" hide-on-small-only investorlink" href="mailto:contact@subscale.com">Investor Inquiries</a>
+    </div>
+      
 
   </div>
 </div>
