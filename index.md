@@ -23,7 +23,7 @@ layout: default
         <h1 class="" data-aos="fade-in"
         data-aos-delay="1500"
         data-aos-easing="ease-in-out">Pick all 3.</h1>
-         <a class=" hide-on-small-only investorlink" href="mailto:contact@subscale.com">Investor Inquiries</a>
+         <a class=" hide-on-small-only investorlink" href="mailto:contact@subscale.io">Investor Inquiries</a>
       </div>
     </div>
   </div>
