@@ -283,7 +283,7 @@ table {
 }
 
 .bg, .middlebg, .rightbg {
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
 }
@@ -387,5 +387,9 @@ h1.light {
 }
 
 #survey {
-  padding-top: 4rem;
+  padding-top: 2rem;
+  #copybox{
+    background-color: rgba(0,0,0,0.6);
+    padding: 2rem 0;
+  }
 }

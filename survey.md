@@ -1,16 +1,18 @@
 ---
 layout: default
+title: Mechanical Engineer Interviews
 search: exclude
 permalink: /me-p-interviews-200/
 ---
 <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1308314&conversionId=1315716&fmt=gif" />
 <div class="row" id="survey">
   
-  <div class="col">
+  <div class="col m12">
     <div class="row">
-      <div class="col m3">&nbsp;</div>
-      <div class="col m6">
-        <p class="center">We are building a cnc machine service for rapid parts, prototyping and small run production. </p><p class="center">We think we know the formula for the ideal service, but we want to interview experts like you to understand what’s most important to you when selecting a supplier.</p>
+      <div class="col m2">&nbsp;</div>
+      <div class="col m8" id="copybox">
+        <h1 class="center">Sign up for a 1-on1 interview with Subscale.</h1>
+        <h2 class="center">Once complete, we'll send you an Amazon eGift card.</h2>
       </div>
       <div class="col"></div>
     </div>
