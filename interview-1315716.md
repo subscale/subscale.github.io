@@ -4,7 +4,6 @@ title: Mechanical Engineer Interviews
 search: exclude
 permalink: /conversion-1315716/
 ---
-<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1308314&conversionId=1315716&fmt=gif" />
 <div class="row" id="survey">
   
   <div class="col m12">
