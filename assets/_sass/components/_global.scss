@@ -42,6 +42,12 @@ a {
 
   // Gets rid of tap active state
   -webkit-tap-highlight-color: transparent;
+  &:visited {
+    color: $link-color;
+  }
+  &:hover {
+    color: white;
+  }
 }
 
 
