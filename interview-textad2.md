@@ -11,7 +11,7 @@ permalink: /linkedin-textad2-interview/
       <div class="col m2">&nbsp;</div>
       <div class="col m8" id="copybox">
         <h1 class="center">Sign up for a 1-on-1 interview with Subscale.</h1>
-        <h2 class="center">You'll get a $200 Amazon eGift cards for a completed interview.</h2>
+        <h2 class="center">We will send a $200 Amazon eGift card for a completed interview.</h2>
       </div>
       <div class="col"></div>
     </div>
