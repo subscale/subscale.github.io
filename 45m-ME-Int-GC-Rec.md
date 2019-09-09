@@ -2,7 +2,7 @@
 layout: default
 title: Mechanical Engineer Interviews - Gift Card LI4
 search: exclude
-permalink: /linkedin-textad4-interview/
+permalink: /Interview-ME-45m-GC-Rec.md/
 ---
 <div class="row" id="survey">
   
