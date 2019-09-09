@@ -13,7 +13,8 @@ permalink: /Interview-ME-45m-GC-Rec/
         <h1 class="center">Sign up for a 1-on-1 interview with Subscale.</h1>
         <h2 class="center">
           We want to talk to mechanical engineers or those in similar roles who design or order parts from CNC machine shops. 
-        <div>If that sounds like you, we want to learn about your experiences using these vendors. We want you to tell us the pain points in the process and we are interested to learn about the kind of parts you have made. For example, what are the sizes, shapes, materials, tolerances that are common for your parts?</div>
+        <div>If that sounds like you, we want to learn about your experiences using these vendors. 
+          <div>We want you to tell us the pain points in the process and we are interested to learn about the kind of parts you have made. For example, what are the sizes, shapes, materials, tolerances that are common for your parts?</div>
           
         <div>We will provide a $200 Amazon eGift card for completed interviews with qualified interviewees..</div></h2>
       </div>
