@@ -10,7 +10,7 @@ permalink: /Interview-ME-45m-GC-Rec/
     <div class="row">
       <div class="col m2">&nbsp;</div>
       <div class="col m8" id="copybox">
-        <h1 class="center">1-on-1 interviews with Subscale.</h1>
+        <h1 class="center">Participate in our Research</h1>
         <h2 class="center">
           We want to talk to mechanical engineers or those in similar roles who design or order parts from CNC machine shops. 
         <div>Does this sound like you? We want to learn about your experiences using these vendors.</div> 
