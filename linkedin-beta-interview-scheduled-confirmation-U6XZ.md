@@ -12,7 +12,7 @@ permalink: /linkedin-beta-interview-scheduled-confirmation-U6XZ/
       <div class="col m8" id="copybox">
         <h1 class="center">Meeting confirmed, thanks!</h1>
         <h2 class="center">We just sent you a calendar invite.</h2>
-        <h2 class="center">Questions? interviews@subscale.io</h2>
+        <h2 class="center">Questions? beta@subscale.io</h2>
       </div>
       <div class="col"></div>
     </div>
