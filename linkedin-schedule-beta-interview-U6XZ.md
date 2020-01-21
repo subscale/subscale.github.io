@@ -11,7 +11,7 @@ permalink: /linkedin-schedule-beta-interview-U6XZ/
       <div class="col m2">&nbsp;</div>
       <div class="col m8" id="copybox">
         <h1 class="center">Sign up for a 1-on-1 interview with Subscale.</h1>
-        <h2 class="center">Questions? Contact interviews@subscale.io for more info.</h2>
+        <h2 class="center">Questions? Contact beta@subscale.io for more info.</h2>
       </div>
       <div class="col"></div>
     </div>
