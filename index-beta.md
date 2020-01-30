@@ -53,7 +53,7 @@ permalink: /home-beta/
   <div id="formwrap" data-aos="fade-up">
       <div class="row">
         <h2>We’re building something revolutionary.</h2>
-        <p>Contact us know if you want to learn more.</p>
+        <p>Contact us if you want to learn more.</p>
       </div>
       <form
         action="https://formspree.io/xbjolyeq"
