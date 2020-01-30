@@ -10,6 +10,7 @@ sftp-config.json
 .jekyll-metadata
 /.bundle
 /vendor
+_site/
 
 # Node.js
 node_modules/
