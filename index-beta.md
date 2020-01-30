@@ -10,13 +10,13 @@ permalink: /home-beta/
   
   <div class="col m8 s12" id="hero">
     <div class="row">
-      <h1>We're Hiring Engineers</h1>
-      <h2>
+      <h1>We're Hiring</h1>
+      <p>
         Subscale is a <b>well funded remote-first</b> company reinventing <b>rapid manufacturing of precision parts</b>. 
-      </h2>
-      <h3>
+      </p>
+      <p>
         When a production system is down, blah blah. Working here you will solve challenging problems that have never been solved before, with the autonomy to use whatever methods you think best.
-      </h3>
+      </p>
       <div class="joblist">
         <h3>Simulation Engineers</h3>
         <p>Good simulation is the foundation for intelligent manufacturing. Build the best simulation in the industry, with performance to test millions of scenarios. Find the perfect balance between accuracy and speed. Multidisciplinary background a must, video game developers welcome. </p><p>Passionate about two or more of the following:</p>
@@ -53,7 +53,7 @@ permalink: /home-beta/
   <div id="formwrap" data-aos="fade-up">
       <div class="row">
         <h2>We’re building something revolutionary.</h2>
-        <h3>Contact us know if you want to learn more.</h3>
+        <p>Contact us know if you want to learn more.</p>
       </div>
       <form
         action="https://formspree.io/xbjolyeq"
