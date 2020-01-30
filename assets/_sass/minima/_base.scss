@@ -252,28 +252,22 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
+#hero {
+    padding: 0 4rem;
+}
 @media only screen and (min-width: 600px) {
  .show-on-small {
   display: none!important;
  }
  #hero {
   margin: 50px 0;
-  padding: 0 4rem;
   h1 {
-    font-size: 24px;
+    font-size: 36px;
+    margin-top:0;
   }
  }
 }
 
-#formwrap {
-  max-width: 300px;
-  display: block;
-  margin: 100px auto;
-  h2 {
-    text-align: center;
-  }
-}  
 .investorlink, .investorlink a {
   color: #9a278f;
   text-transform: uppercase;
@@ -340,12 +334,14 @@ h1.light {
 }
 #formwrap {
   margin: 50px auto;
-  max-width: 470px;
+  max-width: 350px;
   display: block;
+  position: fixed;
   
   h2 {
-    text-align: left;
-    font-size: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
   } 
 }
 @media only screen and (max-width: 599px) {
@@ -369,6 +365,7 @@ h1.light {
   }
   #formwrap { 
     margin: 40px auto;
+    position:relative;
   }
  .site-header { 
   padding-top: 0px;
@@ -392,5 +389,17 @@ h1.light {
   #copybox{
     background-color: rgba(0,0,0,0.6);
     padding: 2rem 0;
+  }
+}
+
+.joblist {
+  h3 {
+    margin: 3rem 0 1rem;
+    text-transform: uppercase;
+    padding: 0.5rem 0.5rem;
+    background-color: rgba(0,0,0,0.4);
+  }
+  ul>li {
+    list-style-type: disc;
   }
 }
