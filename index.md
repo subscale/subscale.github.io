@@ -13,7 +13,7 @@ layout: default
         Subscale is a <b>well funded remote-first</b> company reinventing <b>rapid manufacturing of precision parts</b>. 
       </p>
       <p>
-        When a production system is down, blah blah. Working here you will solve challenging problems that have never been solved before, with the autonomy to use whatever methods you think best.
+        Working here you will solve challenging problems that have never been solved before, with the autonomy to use whatever methods you think best.
       </p>
       <div class="joblist">
         <h3>Simulation Engineers</h3>
