@@ -32,7 +32,7 @@ layout: default
           <li>Reinforcement Learning</li>
         </ul>
         <h3>Automation Engineers</h3>
-        <p>Material handling, assembly, and fabrication challenges. Quantity one automation requires a whole new mindset based on computer vision and sensors, including failsafes at every step. Rapid timelines means it’s faster to hack ordinary machines than to order specialized automated systems, despite the custom mechanical, electrical, and software. Creativity is the most valuable component of any design.</p>
+        <p>Material handling, assembly, and fabrication challenges. Quantity one automation requires a whole new mindset based on computer vision and sensors, including failsafes at every step. Rapid timelines means it’s faster to modify ordinary machines than to order specialized automated systems, despite the custom mechanical, electrical, and software.</p>
         <ul class="browser-default">
           <li>Machine vision</li>
           <li>Mechanical engineering</li>
