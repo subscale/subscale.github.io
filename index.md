@@ -38,7 +38,7 @@ layout: default
           <li>Mechanical engineering</li>
           <li>Networking and microcontrollers</li>
           <li>Closed loop control</li>
-          <li>Sensor Fusion<li>
+          <li>Sensor Fusion</li>
         </ul>
         <h3>Full Stack Engineers</h3>
         <p>Build the factory management system integrated with the customer website. Graphics background a plus. User interface challenges include GD&T. Transparency and product quality the guiding principles, standards such ISO/AS/ITAR a must.</p>
