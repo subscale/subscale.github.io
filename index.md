@@ -17,16 +17,15 @@ layout: default
       </p>
       <div class="joblist">
         <h3>Simulation Engineers</h3>
-        <p>Good simulation is the foundation for intelligent manufacturing. Build the best simulation in the industry, with performance to test millions of scenarios. Find the perfect balance between accuracy and speed. Multidisciplinary background a must, video game developers welcome. </p><p>Passionate about two or more of the following:</p>
+        <p>Good simulation is the foundation for intelligent manufacturing. Subscale's GPU-accelerated geometry and physics code will simulate millions of manufacturing strategies and select the best one. Multidisciplinary background a must. </p><p>Passionate about two or more of the following:</p>
         <ul class="browser-default">
           <li>Computational geometry</li>
-          <li>Physics equations and mesher, elastostatics/dynamics</li>
-          <li>Floating point error bound analysis</li>
-          <li>Sensor data integration (motor torques, forces, acceleration, position, etc)</li>
+          <li>Finite element analysis</li>
+          <li>Manufacturing simulation</li>
           <li>C++ and CUDA experience</li>
         </ul>
         <h3>Optimization Engineers</h3>
-        <p>Optimize tasks within the constraints provided by the simulator. First do no harm: bad plans can damage the product or equipment. Over time, improve tolerances and reduce costs by a few percent every month forever. </p><p>You choose the method, we just want results.<br> Some areas:</p>
+        <p>The customer's desing file must be analyzed to create a manufacturign plan. Generate a plan within the constraints provided by the simulator. Over time, improve tolerances and reduce costs by a few percent every month forever. </p>
         <ul class="browser-default">
           <li>Machine Learning</li>
           <li>Convex Optimization</li>
@@ -39,9 +38,10 @@ layout: default
           <li>Mechanical engineering</li>
           <li>Networking and microcontrollers</li>
           <li>Closed loop control</li>
+          <li>Sensor Fusion<li>
         </ul>
         <h3>Full Stack Engineers</h3>
-        <p>Build the factory management system integrated with the customer website. Graphics background a plus. User interface challenges include GD&T. Transparency and product quality and the guiding principles, standards such ISO/AS/ITAR a must.</p>
+        <p>Build the factory management system integrated with the customer website. Graphics background a plus. User interface challenges include GD&T. Transparency and product quality the guiding principles, standards such ISO/AS/ITAR a must.</p>
       </div><!-- .joblist -->
       
   </div>
