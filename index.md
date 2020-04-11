@@ -22,7 +22,7 @@ layout: default
           <li>C++ and CUDA experience</li>
         </ul>
         <h3>Optimization Engineers</h3>
-        <p>The customer's desing file must be analyzed to create a manufacturign plan. Generate a plan within the constraints provided by the simulator. Over time, improve tolerances and reduce costs by a few percent every month forever. </p>
+        <p>The customer's design file must be analyzed to create a manufacturing plan. Generate a plan within the constraints provided by the simulator. Over time, improve tolerances and reduce costs by a few percent every month forever. </p>
         <ul class="browser-default">
           <li>Machine Learning</li>
           <li>Convex Optimization</li>
