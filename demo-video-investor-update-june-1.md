@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Subscale's Automatic Manufacturing Plan
+title: Subscale's Technology Demo
 permalink: /demo-video-investor-update-june-1/
 search: exclude
 ---
 <div class="container">
 
-  <h2>Subscale’s Automatic Manufacturing Plan</h2>
+  <h2>Subscale Technology Demo</h2>
   How we generate a manufacturing plan from a received customer CAD file, and create the part using robotic production.
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
