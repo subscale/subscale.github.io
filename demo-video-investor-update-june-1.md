@@ -6,8 +6,8 @@ search: exclude
 ---
 <div class="container">
 
-  <h1>Subscale’s Automatic Manufacturing Plan</h1>
-  <p>See how Subscale generates a manufacturing plan from a received customer CAD file, and creates the part using robotic production in our lab.</p>
+  <h2>Subscale’s Automatic Manufacturing Plan</h2>
+  See how Subscale generates a manufacturing plan from a received customer CAD file, and creates the part using robotic production in our lab.
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
