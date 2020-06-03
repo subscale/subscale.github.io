@@ -7,7 +7,7 @@ search: exclude
 <div class="container">
 
   <h2>Subscale Technology Demo</h2>
-  How we generate a manufacturing plan from a received customer CAD file, and create the part using robotic production.
+  Generating a manufacturing plan for a received customer CAD file, then creating the part using robotic production in our Pittsburgh robotics lab.
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
