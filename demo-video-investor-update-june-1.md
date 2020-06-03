@@ -10,7 +10,6 @@ search: exclude
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   </div>
-</div>
 
 
 <style>
