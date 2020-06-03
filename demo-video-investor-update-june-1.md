@@ -5,7 +5,6 @@ permalink: /demo-video-investor-update-june-1/
 search: exclude
 ---
 <div class="container">
-
   <h2>Subscale Technology Demo</h2>
   Generating a manufacturing plan for a customer CAD file, then creating the part in our Pittsburgh robotics lab<p>
   <div style="--aspect-ratio: 16/9;text-align: center;">
