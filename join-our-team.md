@@ -7,7 +7,7 @@ search: exclude
 ---
 <div class="container">
   <h2>Join Our Team</h2>
-  Contact us to set<p>
+  Contact us to... #add copy here<p>
   <div style="--aspect-ratio: 16/9;text-align: center;">
      </div>
 <style>
