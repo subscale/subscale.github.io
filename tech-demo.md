@@ -10,17 +10,6 @@ search: exclude
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
      </div>
-  <div>
-    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "6283207",
-	formId: "2caade00-9a08-4fce-8f60-594eb60349e4"
-});
-</script>
-  </div>
-
-
 <style>
   h1 {
     margin: 3rem 0 2rem;
