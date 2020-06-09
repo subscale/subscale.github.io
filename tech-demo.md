@@ -10,6 +10,8 @@ search: exclude
   <div style="--aspect-ratio: 16/9;text-align: center;">
     <iframe src="https://player.vimeo.com/video/425012407" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
      </div>
+     <a href="/join-our-team/" class="btn">Join Our Team</a>
+
 <style>
   h1 {
     margin: 3rem 0 2rem;
@@ -18,6 +20,12 @@ search: exclude
   .container {
      margin: 10px auto;
      max-width: 80%;
+   } 
+
+   .btn {
+    margin: 2rem auto;
+    display: block;
+    width: 200px
    }
 
    [style*="--aspect-ratio"] > :first-child {
