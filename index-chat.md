@@ -76,7 +76,10 @@ permalink: /index-chat/
 </div>
 <script>
   window.intercomSettings = {
-    app_id: "xg935s5s"
+    app_id: "xg935s5s",
+    name: "<%= current_user.name %>", // Full name
+    email: "<%= current_user.email %>", // Email address
+    created_at: "<%= current_user.created_at.to_i %>" // Signup date as a Unix timestamp
   };
 </script>
 
