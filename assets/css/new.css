@@ -1,0 +1,171 @@
+.site-header {
+    padding: 25px 0;
+    text-align: center;
+}
+
+.site-footer {
+    padding: 3em 0;
+    text-align: center;
+}
+
+.logo img {
+    max-width: 150px;
+}
+
+.container {
+    max-width: 978px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+p {
+    line-height: 26px;
+}
+* {
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+.pt {
+    padding-top: 10em;
+}
+
+h1,h2,h3,h4 {
+    font-weight: 100;
+}
+
+.banner {
+    background: linear-gradient(70deg, #150313 0%, #60265E 101.5%), #F6F6F6;
+    color: white;
+    text-align: center;
+
+    position: relative;
+    
+}
+
+.minh {
+    min-height: 700px;
+    padding-bottom: 10em;
+}
+
+.cta {
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 15px 60px;
+    display: inline-block;
+    margin: 1.5em 0;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 4em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    
+}
+
+.text-white {
+    color: white;
+}
+
+.banner p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 34px;
+}
+
+.banner-content {
+    padding: 5em 0;
+}
+
+.text-sm {
+    font-size: 14px !important;
+}
+
+.video {
+    margin-top: -300px;
+    position: relative;
+    text-align: center;
+
+}
+
+.top-svg {
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 10vw;
+  left:0;
+}
+
+.bt-svg {
+    position: absolute;
+  top: 0;
+  width: 100%;
+  height: 10vw;
+  left:0;
+}
+
+.video iframe {
+    margin-bottom: 20px;
+}
+
+.text-purple {
+    color: #A95FA1;
+}
+
+.info {
+    padding: 3em 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2em 0;
+}
+
+.list li{
+    flex: 50%;
+    list-style-type: none;
+    color:#727070;
+}
+
+.text-light {
+    color:#727070; 
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.info h2 {
+    font-size: 60px;
+    text-align: left;
+    flex: 2;
+}
+
+.info .child2 {
+    flex: 3;
+    text-align:left;
+}
+
+
+@media (max-width: 981px) {
+    .container {
+        width: 85%;
+    }
+
+}
