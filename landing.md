@@ -6,6 +6,7 @@ layout: newlayout
 ---
 
 <section class="banner minh">
+  <img src="/assets/images/bg-gradient.png" class="gd1"/>
   <header class="site-header" role="banner">
       <div class="container">
           <div class="logo">
@@ -25,6 +26,7 @@ layout: newlayout
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="top-svg">
     <polygon fill="white" points="0,100 100,0 100,100"/>
   </svg>
+  <img src="/assets/images/bg-gradient.png" class="gd2"/>
 </section>
 
 <section class="video">
@@ -35,7 +37,7 @@ layout: newlayout
       <div class="info">
         <div class="flex">
           <h2>What to expect:</h2>
-          <div class="child2">
+          <div class="child2 w85">
           <p class="text-purple bold">During the beta program, you'll have priority access to:</p>
           <ul class="list">
             <li>Parts with tolerances down to 0.001*.</li>
@@ -59,6 +61,7 @@ layout: newlayout
 </section>
 
 <section class="banner pt">
+<img src="/assets/images/bg-gradient.png" class="gd3"/>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none" class="bt-svg">
     <polygon fill="white" points="0 0, 0 100, 100 0"/>
   </svg>
@@ -77,4 +80,5 @@ layout: newlayout
           <p class="text-sm">@2020, Subscale Corporation</p>
       </div>
   </footer>
+  <img src="/assets/images/bg-gradient.png" class="gd4"/>
 </section>
