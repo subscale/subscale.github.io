@@ -187,7 +187,7 @@ h2 {
 
 .gd1 {
     left: 0;
-    width: auto;
+    width: auto !important;
     position: absolute;
     mix-blend-mode: normal;
 opacity: 0.24;
@@ -197,7 +197,7 @@ opacity: 0.24;
     position: absolute;
 bottom: 100px;
 right: 0;
-width: auto;
+width: auto !important;
     mix-blend-mode: normal;
 opacity: 0.24;
 }
@@ -206,7 +206,7 @@ opacity: 0.24;
     position: absolute;
     right: 0;
     top: 0;
-    width: auto;
+    width: auto !important;
     mix-blend-mode: normal;
     opacity: 0.24;
 }
@@ -215,7 +215,7 @@ opacity: 0.24;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: auto;
+    width: auto !important;
     mix-blend-mode: normal;
     opacity: 0.24;
 }
@@ -279,25 +279,25 @@ h2 {
 .gd1 {
     left: -100px;
     top: 0;
-    width: 250px;
+    width: auto;
 }
 
 .gd2 {
 bottom: 100px;
 right: -50px;
-width: 250px;
+width: auto;
 }
 
 .gd3 {
     right: -50px;
     top: 0;
-    width: 250px;
+    width: auto;
 }
 
 .gd4 {
     bottom: 200px;
     left: 0;
-    width: 230px;
+    width: auto;
 }
 
 
