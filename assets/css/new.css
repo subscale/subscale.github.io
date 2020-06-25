@@ -284,12 +284,12 @@ h2 {
 
 .gd2 {
 bottom: 100px;
-right: -50px;
+right: 0 !important;
 width: auto;
 }
 
 .gd3 {
-    right: -50px;
+    right: 0 !important;
     top: 0;
     width: auto;
 }
