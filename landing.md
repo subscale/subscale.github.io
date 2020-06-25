@@ -18,7 +18,7 @@ layout: newlayout
     <div class="banner-content">
       <h1>1 Day, 1 Thou Beta Program</h1>
       <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program.</p>
-      <a href="#" class="cta">Sign Up</a>
+      <a class="cta" href="#signup" rel="modal:open">Sign Up</a>
     </div>
   
   
@@ -69,7 +69,7 @@ layout: newlayout
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
       <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
-      <a href="#" class="cta">Sign Up</a>
+      <a class="cta" href="#signup" rel="modal:open">Sign Up</a>
     </div>
   </div>
 <footer class="site-footer">
@@ -82,3 +82,10 @@ layout: newlayout
   </footer>
   <img src="/assets/images/bg-gradient.png" class="gd4"/>
 </section>
+
+
+<div id="signup" class="modal">
+<div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/stephen236/beta-interview?embed=true"></div>
+</div>
+
+

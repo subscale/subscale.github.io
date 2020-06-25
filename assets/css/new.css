@@ -312,3 +312,8 @@ width: auto;
 
 
 }
+
+.modal {
+    padding: 20px !important;
+    max-width: 1000px !important;
+}
