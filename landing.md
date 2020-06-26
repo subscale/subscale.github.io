@@ -17,7 +17,7 @@ layout: newlayout
   <div class="container">
     <div class="banner-content">
       <h1>1 Day, 1 Thou Beta Program</h1>
-      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program. Interested in the beta? Schedule a call with us!</p>
+      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program. Interested in the beta? Schedule a call with us to get on the waitlist.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   
