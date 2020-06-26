@@ -20,8 +20,8 @@ permalink: /landing2/
   <div class="container">
     <div class="banner-content">
       <h1>1 Day, 1 Thou Beta Program</h1>
-      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program. Schedule a call with us to register for the beta.</p>
-      <a class="cta" href="#signup" rel="modal:open">Schedule</a>
+      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program. Interested in the beta? Schedule a call with us to get on the waitlist.</p>
+      <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   
   
@@ -72,7 +72,7 @@ permalink: /landing2/
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
       <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
-      <a class="cta" href="#signup" rel="modal:open">Schedule</a>
+      <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   </div>
 <footer class="site-footer">
@@ -91,4 +91,14 @@ permalink: /landing2/
 <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/stephen236/beta-interview?embed=true"></div>
 </div>
 
+<script>
+  window.intercomSettings = {
+    app_id: "xg935s5s"
+  };
+</script>
+
+<script>
+// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/xg935s5s'
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/xg935s5s';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
 
