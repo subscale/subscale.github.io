@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: newlayout
+permalink: /beta
 ---
 <svg width="375" height="871" viewBox="0 0 375 871" fill="none" xmlns="http://www.w3.org/2000/svg" class="gray-gd">
 <path opacity="0.3996" fill-rule="evenodd" clip-rule="evenodd" d="M2267 0V1460H-485L689.946 0H2267Z" fill="#F6F6F6"/>
