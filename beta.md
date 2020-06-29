@@ -13,7 +13,7 @@ permalink: /beta
   <header class="site-header" role="banner">
       <div class="container">
           <div class="logo">
-              <a href="/"><img data-aos="fade-in" src="logo.png" alt="Subscale Inc." /></a>
+              <a href="/"><img data-aos="fade-in" src="/assets/images/logo.png" alt="Subscale Inc." /></a>
           </div>
       </div>
   </header>
