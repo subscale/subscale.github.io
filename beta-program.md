@@ -20,7 +20,7 @@ permalink: /pilot-program/
   <div class="container">
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
-      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou pilot program. Interested in participating? Schedule a call with us to register.</p>
+      <p>Subscale will produce precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou pilot program. Interested in participating? Schedule a meeting with us to register.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   
@@ -43,7 +43,7 @@ permalink: /pilot-program/
           <div class="child2 w85">
           <p class="text-purple bold">During the pilot program, you'll have priority access to:</p>
           <ul class="list">
-            <li>Parts with tolerances down to 0.001*.</li>
+            <li>Parts with tolerances down to 0.001".</li>
             <li>Parts made in 1 day.</li>
             <li>Tracking updates at every stage of production.</li>
             <li>Fast price and lead-time quoting.</li>
@@ -56,7 +56,7 @@ permalink: /pilot-program/
         <div class="flex">
           <h2>What you'll get:</h2>
           <div class="child2">
-          <p class="text-light">This select group will get personal attention, early access, and the chance to influence the design of our service. You'll have an opportunity to tour our lab and see how we combine physics simulation, reinforcement learning, and robotics to achieve lights-out automation.</p>
+          <p class="text-light">This select group will get early access, special pricing, personal attention, and the chance to influence the design of our service. You'll have an opportunity to tour our lab and see how we combine physics simulation, reinforcement learning, and robotics to achieve lights-out automation.</p>
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@ permalink: /pilot-program/
   <div class="container">
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
-      <p>Subscale is conducting a private pilo with a select group of customers. Find out how to participate.</p>
+      <p>Subscale is conducting a private pilot program with a select group of customers. Find out how to participate.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   </div>
