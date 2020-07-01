@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: newlayout
-title: Subscale Beta Program
+title: Subscale Pilot Program
 search: exclude
-permalink: /beta-program/
+permalink: /pilo-program/
 ---
 
 <section class="banner minh">
@@ -19,8 +19,8 @@ permalink: /beta-program/
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>1 Day, 1 Thou Beta Program</h1>
-      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou beta program. Interested in the beta? Schedule a call with us to get on the waitlist.</p>
+      <h1>1 Day, 1 Thou Pilot Program</h1>
+      <p>Subscale will produce precision CNC parts within 0.001* -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou pilot program. Interested in participating? Schedule a call with us to register.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   
@@ -41,7 +41,7 @@ permalink: /beta-program/
         <div class="flex">
           <h2>What to expect:</h2>
           <div class="child2 w85">
-          <p class="text-purple bold">During the beta program, you'll have priority access to:</p>
+          <p class="text-purple bold">During the pilot program, you'll have priority access to:</p>
           <ul class="list">
             <li>Parts with tolerances down to 0.001*.</li>
             <li>Parts made in 1 day.</li>
@@ -71,7 +71,7 @@ permalink: /beta-program/
   <div class="container">
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
-      <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
+      <p>Subscale is conducting a private pilo with a select group of customers. Find out how to participate.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   </div>
