@@ -20,7 +20,7 @@ permalink: /pilot-program/
   <div class="container">
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
-      <p>Subscale will produce precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our 1 Day, 1 Thou pilot program. Interested in participating? Schedule a meeting with us to register.</p>
+      <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
       <a class="cta" href="#signup" rel="modal:open">Schedule Meeting</a>
     </div>
   
