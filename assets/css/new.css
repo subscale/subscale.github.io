@@ -24,9 +24,11 @@
 
 p {
     line-height: 26px;
+    font-size: 18px;
 }
 * {
     padding: 0;
+    font-size: 18px;
     font-family: 'Raleway', sans-serif;
     margin: 0;
 }
@@ -207,8 +209,6 @@ h2 {
 .list {
     margin: 2em 0;
     margin-bottom: 0;
-    display: flex;
-    flex-wrap: wrap;
     list-style-position: outside;
 
 }
@@ -231,7 +231,7 @@ h2 {
 }
 
 .info h2 {
-    font-size: 60px;
+    font-size: 40px;
     text-align: left;
     flex: 2;
 }
@@ -245,6 +245,10 @@ h2 {
 @media (max-width: 981px) {
     .container {
         width: 85%;
+    }
+
+    .size-2 {
+        font-size: 16px !important;
     }
 
 }
@@ -428,4 +432,10 @@ width: auto;
 
 .page-content {
     position: relative;
+}
+
+.size-2 {
+    font-size: 21px;
+    max-width: 700px;
+    margin: 0 auto;
 }
