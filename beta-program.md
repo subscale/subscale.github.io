@@ -5,7 +5,7 @@
 layout: newlayout
 title: Subscale Pilot Program
 search: exclude
-permalink: /pilo-program/
+permalink: /pilot-program/
 ---
 
 <section class="banner minh">
