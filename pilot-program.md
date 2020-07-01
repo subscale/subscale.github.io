@@ -34,7 +34,7 @@ permalink: /pilot-program/
 
 <section class="video">
   <div class="container">
-  <h2 class="text-white">Subscale Tech Demo</h2>
+  <h2 class="text-white">Subscale's Autonomous Manufacturing Plan</h2>
     <iframe src="https://player.vimeo.com/video/425012407" width="100%" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="" class="iframe"></iframe>
     <p class="text-purple">See how we generate a manufacturing plan for a customer CAD file, then create the part in our Pitsburgh robotics lab.</p>
       <div class="info">
