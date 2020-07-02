@@ -12,6 +12,7 @@ search: exclude
      </div>
 <!--      <a href="/join-our-team/" class="btn">Join Our Team</a>
  -->
+ To apply, please send an email to jobs@subscale.io with your resume.
 <style>
   h1 {
     margin: 3rem 0 2rem;
