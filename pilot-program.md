@@ -21,7 +21,7 @@ permalink: /pilot-program/
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
       <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
-      <a id="button1" class="cta" href="#" style="display:block;">Schedule Meeting</a>
+      <a id="button1" class="cta" href="#" onclick="Intercom('show');">Schedule Meeting</a>
     </div>
   
   
@@ -72,7 +72,7 @@ permalink: /pilot-program/
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
       <p>Subscale is conducting a private pilot program with a select group of customers. Find out how to participate.</p>
-      <a class="cta" href="#" id="button2" style="display:block;">Schedule Meeting</a>
+      <a class="cta" href="#" id="button2" onclick="Intercom('show');">Schedule Meeting</a>
     </div>
   </div>
 <footer class="site-footer">
@@ -86,6 +86,13 @@ permalink: /pilot-program/
   <img src="/assets/images/bg-gradient.png" class="gd4"/>
 </section>
 
+  <style>
+    #button1, 
+    #button2 {
+              cursor: pointer;
+    }  
+  </style>
+  
 <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1308314&conversionId=2719524&fmt=gif" />
 
 <script>
@@ -97,11 +104,4 @@ permalink: /pilot-program/
 // We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/xg935s5s'
 (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/xg935s5s';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
 </script>
-<script>!function(a,b){b=b||[],a.addEventListener("DOMContentLoaded",function(c){for(var d=0;d<b.length;d++){if(window.InstapageUniqueVisit){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByTagName("div")[0].getElementsByTagName("a")[0].getElementsByTagName("div")[0]}else if(window.ub){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByClassName("sqs-block-button-element")[0]}else if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,""));e&&(e.removeAttribute("href"),e.className+=" vl-ctaWithId",e.onclick=function(){a.getElementById("vl-overlay").style.display="block"})}})}(document,["button1"]);</script> 
-<script>!function(a,b){b=b||[],a.addEventListener("DOMContentLoaded",function(c){for(var d=0;d<b.length;d++){if(window.InstapageUniqueVisit){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByTagName("div")[0].getElementsByTagName("a")[0].getElementsByTagName("div")[0]}else if(window.ub){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByClassName("sqs-block-button-element")[0]}else if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,""));e&&(e.removeAttribute("href"),e.className+=" vl-ctaWithId",e.onclick=function(){a.getElementById("vl-overlay").style.display="block"})}})}(document,["button2"]);</script> 
-  <style>
-    #button1, 
-    #button2 {
-              cursor: pointer;
-    }  
-  </style>
+
