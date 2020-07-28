@@ -99,3 +99,9 @@ permalink: /pilot-program/
 </script>
 <script>!function(a,b){b=b||[],a.addEventListener("DOMContentLoaded",function(c){for(var d=0;d<b.length;d++){if(window.InstapageUniqueVisit){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByTagName("div")[0].getElementsByTagName("a")[0].getElementsByTagName("div")[0]}else if(window.ub){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByClassName("sqs-block-button-element")[0]}else if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,""));e&&(e.removeAttribute("href"),e.className+=" vl-ctaWithId",e.onclick=function(){a.getElementById("vl-overlay").style.display="block"})}})}(document,["button1"]);</script> 
 <script>!function(a,b){b=b||[],a.addEventListener("DOMContentLoaded",function(c){for(var d=0;d<b.length;d++){if(window.InstapageUniqueVisit){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByTagName("div")[0].getElementsByTagName("a")[0].getElementsByTagName("div")[0]}else if(window.ub){if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,"")).getElementsByClassName("sqs-block-button-element")[0]}else if(a.getElementById(b[d].replace(/^#/,"")))var e=a.getElementById(b[d].replace(/^#/,""));e&&(e.removeAttribute("href"),e.className+=" vl-ctaWithId",e.onclick=function(){a.getElementById("vl-overlay").style.display="block"})}})}(document,["button2"]);</script> 
+  <style>
+    #button1, 
+    #button2 {
+              cursor: pointer;
+    }  
+  </style>
