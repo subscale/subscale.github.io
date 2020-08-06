@@ -20,7 +20,7 @@ permalink: /pilot-program-chat-test/
   <div class="container">
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
-      <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
+      <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to join.</p>
       <a id="button1" class="cta" href="#">Schedule Meeting</a>
     </div>
   
@@ -71,7 +71,7 @@ permalink: /pilot-program-chat-test/
   <div class="container">
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
-      <p>Subscale is conducting a private pilot program with a select group of customers. Find out how to participate.</p>
+      <p>Subscale is conducting a private pilot program with a select group of customers. Schedule a meeting to join the program.</p>
       <a class="cta" href="#" id="button2">Schedule Meeting</a>
     </div>
   </div>
