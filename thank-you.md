@@ -16,7 +16,8 @@ layout: newlayout
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>Thank you for subscribing</h1>
+      <h1>Thank you.</h1>
+      <h2>Please check your email for your meeting details.<br>We look forward to speaking to you.</h2>
     </div>
   
   
