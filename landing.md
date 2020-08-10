@@ -86,7 +86,7 @@ layout: newlayout
 </section>
 
 <div class="chatdiv">
-  <a href="" id="startChat"><i class="fa fa-comments"></i> Live Chat</a>
+  <a id="startChat"><i class="fa fa-comments"></i> Live Chat</a>
 </div>
 
 <!-- Calendly link widget begin -->
