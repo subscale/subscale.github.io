@@ -5,7 +5,7 @@
 layout: newlayout
 ---
 
-<section class="banner minh">
+<section class="banner h100">
   <img src="/assets/images/bg-gradient.png" class="gd1"/>
   <header class="site-header" role="banner">
       <div class="container">
@@ -16,8 +16,7 @@ layout: newlayout
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>Thank you.</h1>
-      <h2>Please check your email for your meeting details.<br>We look forward to speaking to you.</h2>
+      <h1>Thank you for subscribing</h1>
     </div>
   
   
