@@ -85,6 +85,9 @@ layout: newlayout
 
 </section>
 
+<div class="chatdiv">
+  <a href="" id="startChat"><i class="fa fa-comments"></i> Live Chat</a>
+</div>
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
