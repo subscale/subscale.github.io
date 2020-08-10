@@ -98,6 +98,10 @@ layout: newlayout
     app_id: "xg935s5s"
   };
 
+  $( document ).ready(function() {
+  Intercom('hide');
+});
+
   $( "#startChat" ).click(function() {
   Intercom('showNewMessage');
 });
