@@ -94,10 +94,6 @@ layout: newlayout
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 
 <script>
-  window.intercomSettings = {
-    app_id: "xg935s5s"
-  };
-
   $( "#startChat" ).click(function() {
   Intercom('showNewMessage');
 });
