@@ -16,7 +16,7 @@ layout: newlayout
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>1 Day, 1 Thou Beta Program</h1>
+      <h1>1 Day, 1 Thou Pilot Program</h1>
       <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
       <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Schedule Meeting</a>
     </div>
