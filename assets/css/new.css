@@ -242,6 +242,12 @@ h2 {
 }
 
 
+@media (max-width: 600px) {
+    .site-header {
+        text-align: left !important;
+    }
+}
+
 @media (max-width: 981px) {
     .container {
         width: 85%;
