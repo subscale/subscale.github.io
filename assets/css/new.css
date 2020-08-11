@@ -441,7 +441,7 @@ width: auto;
 }
 
 .chatdiv {
-    position: fixed;
+    position: absolute;
     top: 20px;
     right: 20px;
 }
