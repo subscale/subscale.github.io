@@ -4,7 +4,8 @@
 
 layout: newlayout
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 <section class="banner minh">
   <img src="/assets/images/bg-gradient.png" class="gd1"/>
   <header class="site-header" role="banner">
@@ -18,7 +19,7 @@ layout: newlayout
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
       <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
-      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Schedule Meeting</a>
+      <a class="cta" href="#schedule" rel="modal:open">Schedule Meeting</a>
     </div>
   
   
@@ -69,7 +70,7 @@ layout: newlayout
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
       <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
-      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Schedule Meeting</a>
+      <a class="cta" href="#schedule" rel="modal:open">Schedule Meeting</a>
     </div>
   </div>
 <footer class="site-footer">
@@ -87,6 +88,17 @@ layout: newlayout
 
 <div class="chatdiv">
   <a id="startChat"><i class="fa fa-comments"></i> Live Chat</a>
+</div>
+
+
+<div id="schedule" class="modal">
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+portalId: "6283207",
+formId: "45c5748f-3b06-41cb-8483-fe04fde5ad77"
+});
+</script>
 </div>
 
 
