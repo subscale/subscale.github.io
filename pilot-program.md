@@ -21,7 +21,7 @@ permalink: /pilot-program/
     <div class="banner-content">
       <h1>1 Day, 1 Thou Pilot Program</h1>
       <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
-      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Schedule Meeting</a>
+      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Register</a>
     </div>
   
   
@@ -41,7 +41,7 @@ permalink: /pilot-program/
         <div class="flex">
           <h2>What to expect:</h2>
           <div class="child2 w85">
-          <p class="text-purple bold">During the beta program, you'll have priority access to:</p>
+          <p class="text-purple bold">During the pilot program, you'll have priority access to:</p>
           <ul class="list">
             <li>Parts with tolerances down to 0.001*.</li>
             <li>Parts made in 1 day.</li>
@@ -71,8 +71,8 @@ permalink: /pilot-program/
   <div class="container">
     <div class="banner-content">
       <h1>Experience our service for yourself</h1>
-      <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
-      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Schedule Meeting</a>
+      <p>Subscale is conducting a private pilot with a select group of customers. Schedule a meeting with us to get early access.</p>
+      <a class="cta" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/subscale/subscale-pilot-program'});return false;">Register</a>
     </div>
   </div>
 <footer class="site-footer">
