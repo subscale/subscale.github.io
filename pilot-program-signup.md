@@ -17,8 +17,8 @@ layout: newlayout
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>1 Day, 1 Thou Pilot Program</h1>
-      <p>Subscale is ready to produce your precision CNC parts within 0.001" -in one day. And now we're handpicking a small group of engineers to participate in our pilot program. Schedule a meeting with us to register.</p>
+      <h1>Precision CNC parts made in 1 day</h1>
+      <p>Get early access to CNC services delivering parts with tolerances down to 0.001”.</p>
       <a class="cta" href="#schedule" rel="modal:open">Schedule Meeting</a>
     </div>
   
@@ -34,12 +34,12 @@ layout: newlayout
   <div class="container">
   <h2 class="text-white">Subscale Tech Demo</h2>
     <iframe src="https://player.vimeo.com/video/425012407" width="100%" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="" class="iframe"></iframe>
-    <p class="text-purple size-2">See how we generate a manufacturing plan for a customer CAD file, then create the part in our Pitsburgh robotics lab.</p>
+    <p class="text-purple size-2">See how we accelerate the manufacturing process with physics simulation and robotics.</p>
       <div class="info">
         <div class="flex">
           <h2>What to expect:</h2>
           <div class="child2 w85">
-          <p class="text-purple bold">During the beta program, you'll have priority access to:</p>
+          <p class="text-purple bold">1 Day, 0.001” Pilot Program</p>
           <ul class="list">
             <li>Parts with tolerances down to 0.001*.</li>
             <li>Parts made in 1 day.</li>
@@ -52,9 +52,9 @@ layout: newlayout
       </div>
       <div class="info">
         <div class="flex">
-          <h2>What you'll get:</h2>
+          <h2>Get early access</h2>
           <div class="child2">
-          <p class="text-light">This select group will get personal attention, early access, and the chance to influence the design of our service. You'll have an opportunity to tour our lab and see how we combine physics simulation, reinforcement learning, and robotics to achieve lights-out automation.</p>
+          <p class="text-light">Subscale is conducting a pilot program with a select group of customers. Schedule a time to meet with us to register.</p>
           </div>
         </div>
       </div>
