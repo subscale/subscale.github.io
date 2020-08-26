@@ -17,7 +17,7 @@ layout: newlayout
   </header>
   <div class="container">
     <div class="banner-content">
-      <h1>Precision CNC parts made in 1 day</h1>
+      <h1>Precision CNC parts, made in 1 day</h1>
       <p>Get early access to CNC services delivering parts with tolerances down to 0.001”.</p>
       <a class="cta" href="#schedule" rel="modal:open">Schedule Meeting</a>
     </div>
@@ -53,7 +53,7 @@ layout: newlayout
       <div class="info">
         <div class="flex">
     
-          </div>
+
         </div>
       </div>
     </div>
