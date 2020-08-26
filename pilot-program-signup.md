@@ -52,9 +52,7 @@ layout: newlayout
       </div>
       <div class="info">
         <div class="flex">
-          <h2>Get early access</h2>
-          <div class="child2">
-          <p class="text-light">Subscale is conducting a pilot program with a select group of customers. Schedule a time to meet with us to register.</p>
+    
           </div>
         </div>
       </div>
@@ -68,8 +66,8 @@ layout: newlayout
   </svg>
   <div class="container">
     <div class="banner-content">
-      <h1>Experience our service for yourself</h1>
-      <p>Subscale is conducting a private beta with a select group of customers. Find out how to participate.</p>
+      <h1>Get early access!</h1>
+      <p>Subscale is conducting a pilot program with a select group of customers. Register to get early access.</p>
       <a class="cta" href="#schedule" rel="modal:open">Schedule Meeting</a>
     </div>
   </div>
